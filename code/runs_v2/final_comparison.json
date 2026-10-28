@@ -1,0 +1,27 @@
+[
+  {
+    "stack_weight": 0,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504
+  },
+  {
+    "stack_weight": 0.25,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504
+  },
+  {
+    "stack_weight": 0.5,
+    "hard_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097
+  },
+  {
+    "stack_weight": 0.75,
+    "hard_accuracy": 85.35211267605634,
+    "validation_accuracy": 93.48370927318295
+  },
+  {
+    "stack_weight": 1,
+    "hard_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097
+  }
+]

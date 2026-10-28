@@ -1,0 +1,44 @@
+{
+  "selected": {
+    "alpha": 1,
+    "epoch": 20,
+    "holdout_accuracy": 82.50591016548464
+  },
+  "comparison": [
+    {
+      "name": "previous",
+      "hard_correct": 309,
+      "hard_accuracy": 87.04225352112675,
+      "validation_accuracy": 94.23558897243107,
+      "fixed": 0,
+      "regressed": 0
+    },
+    {
+      "name": "reference_aux",
+      "hard_correct": 305,
+      "hard_accuracy": 85.91549295774648,
+      "validation_accuracy": 93.734335839599,
+      "fixed": 6,
+      "regressed": 10
+    },
+    {
+      "name": "quarter_blend",
+      "hard_correct": 309,
+      "hard_accuracy": 87.04225352112675,
+      "validation_accuracy": 94.23558897243107,
+      "fixed": 1,
+      "regressed": 1
+    },
+    {
+      "name": "half_blend",
+      "hard_correct": 307,
+      "hard_accuracy": 86.47887323943661,
+      "validation_accuracy": 93.98496240601504,
+      "fixed": 3,
+      "regressed": 5
+    }
+  ],
+  "seconds": 190.40010999992955,
+  "asset_bytes": 4339182,
+  "test_scored": false
+}

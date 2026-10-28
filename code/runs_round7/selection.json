@@ -1,0 +1,18 @@
+{
+  "selected": {
+    "name": "previous_development",
+    "hard_correct": 309,
+    "hard_accuracy": 87.04225352112675,
+    "validation_accuracy": 94.23558897243107,
+    "fixed": 0,
+    "regressed": 0,
+    "gain_ci95": [
+      0.0,
+      0.0
+    ],
+    "asset_bytes": 9724630
+  },
+  "previous_development_retained": true,
+  "test_scored": false,
+  "official_test_accuracy": 84.36830835117773
+}

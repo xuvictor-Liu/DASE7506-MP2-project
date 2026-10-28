@@ -1,0 +1,32 @@
+[
+  {
+    "rank": 16,
+    "epoch": 20,
+    "holdout_accuracy": 82.74231678486997
+  },
+  {
+    "rank": 16,
+    "epoch": 50,
+    "holdout_accuracy": 83.21513002364065
+  },
+  {
+    "rank": 16,
+    "epoch": 100,
+    "holdout_accuracy": 83.451536643026
+  },
+  {
+    "rank": 64,
+    "epoch": 20,
+    "holdout_accuracy": 82.03309692671394
+  },
+  {
+    "rank": 64,
+    "epoch": 50,
+    "holdout_accuracy": 81.7966903073286
+  },
+  {
+    "rank": 64,
+    "epoch": 100,
+    "holdout_accuracy": 82.03309692671394
+  }
+]

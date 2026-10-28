@@ -1,0 +1,12 @@
+{
+  "selected": {
+    "C": 30,
+    "bandwidth": 0.25,
+    "holdout_accuracy": 81.7966903073286,
+    "seconds": 48.2499308999395
+  },
+  "hard_accuracy": 83.09859154929578,
+  "validation_accuracy": 92.4812030075188,
+  "seconds": 72.91589069995098,
+  "asset_bytes": 8829405
+}

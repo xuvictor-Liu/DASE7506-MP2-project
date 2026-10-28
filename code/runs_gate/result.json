@@ -1,0 +1,35 @@
+{
+  "comparison": [
+    {
+      "name": "previous_best",
+      "hard_correct": 309,
+      "hard_n": 355,
+      "hard_accuracy": 87.04225352112675,
+      "validation_accuracy": 94.23558897243107,
+      "fixed": 0,
+      "regressed": 0
+    },
+    {
+      "name": "learned_gate",
+      "hard_correct": 303,
+      "hard_n": 355,
+      "hard_accuracy": 85.35211267605634,
+      "validation_accuracy": 93.48370927318295,
+      "fixed": 3,
+      "regressed": 9
+    },
+    {
+      "name": "anchored_gate",
+      "hard_correct": 309,
+      "hard_n": 355,
+      "hard_accuracy": 87.04225352112675,
+      "validation_accuracy": 94.23558897243107,
+      "fixed": 2,
+      "regressed": 2
+    }
+  ],
+  "seconds": 161.20887920004316,
+  "test_scored": false,
+  "previous_best_retained": true,
+  "stop_after_this_experiment": true
+}

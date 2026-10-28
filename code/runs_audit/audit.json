@@ -1,0 +1,63 @@
+{
+  "test_references_read": false,
+  "splits": {
+    "train": {
+      "n": 4755,
+      "column_label_counts": [
+        3584,
+        3568,
+        3604,
+        3597
+      ],
+      "invalid_candidates": 871,
+      "positive_labels_invalid": 0,
+      "every_question_has_correct_candidate": true
+    },
+    "validation": {
+      "n": 798,
+      "column_label_counts": [
+        624,
+        601,
+        595,
+        596
+      ],
+      "invalid_candidates": 157,
+      "positive_labels_invalid": 0,
+      "every_question_has_correct_candidate": true
+    }
+  },
+  "inference": {
+    "v2": {
+      "permutation_max_error": 1.6689300537109375e-06,
+      "batch_max_error": 0.0,
+      "finite_scores": true
+    },
+    "v3": {
+      "permutation_max_error": 1.401296398029217e-06,
+      "batch_max_error": 0.0,
+      "finite_scores": true
+    }
+  },
+  "hashes": {
+    "v2": "all frozen hashes match",
+    "v3": "all frozen hashes match"
+  },
+  "findings": [
+    {
+      "severity": "methodological",
+      "finding": "V3 role-text calibrator is trained with raw single-fold stack scores but deployed with raw V2 scores. Different model family and score scale; no proof this caused test degradation."
+    },
+    {
+      "severity": "methodological",
+      "finding": "Role-text regularization selection uses a non-nested meta holdout over precomputed OOF teacher scores."
+    },
+    {
+      "severity": "evaluation",
+      "finding": "Hard validation and full test are distinct metrics. Many rounds reuse the validation set."
+    },
+    {
+      "severity": "documentation",
+      "finding": "Historical V2 README/report still say current; a consolidated report must distinguish V2 and V3."
+    }
+  ]
+}

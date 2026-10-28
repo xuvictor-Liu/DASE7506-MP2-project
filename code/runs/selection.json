@@ -1,0 +1,6 @@
+{
+  "selection_metric": "validation hard-subset accuracy; overall validation tie-break",
+  "hard_accuracy": 83.94366197183099,
+  "validation_accuracy": 92.85714285714286,
+  "training_seconds": 27.817790600005537
+}

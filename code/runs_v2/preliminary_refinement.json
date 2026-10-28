@@ -1,0 +1,17 @@
+[
+  {
+    "name": "full",
+    "hard_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097
+  },
+  {
+    "name": "projected",
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599
+  },
+  {
+    "name": "full_projected_average",
+    "hard_accuracy": 85.07042253521126,
+    "validation_accuracy": 93.35839598997494
+  }
+]

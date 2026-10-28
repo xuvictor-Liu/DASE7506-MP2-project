@@ -1,0 +1,14 @@
+[
+  {
+    "epoch": 20,
+    "holdout_accuracy": 81.56028368794325
+  },
+  {
+    "epoch": 50,
+    "holdout_accuracy": 82.97872340425532
+  },
+  {
+    "epoch": 100,
+    "holdout_accuracy": 80.85106382978722
+  }
+]

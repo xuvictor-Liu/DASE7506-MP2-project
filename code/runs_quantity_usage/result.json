@@ -1,0 +1,39 @@
+{
+  "comparison": [
+    {
+      "name": "previous_best",
+      "hard_correct": 309,
+      "hard_accuracy": 87.04225352112675,
+      "validation_accuracy": 94.23558897243107,
+      "fixed": 0,
+      "regressed": 0
+    },
+    {
+      "name": "quantity_calibrator",
+      "hard_correct": 304,
+      "hard_accuracy": 85.63380281690141,
+      "validation_accuracy": 93.60902255639097,
+      "fixed": 7,
+      "regressed": 12
+    },
+    {
+      "name": "quarter_blend",
+      "hard_correct": 308,
+      "hard_accuracy": 86.76056338028168,
+      "validation_accuracy": 94.11027568922306,
+      "fixed": 2,
+      "regressed": 3
+    },
+    {
+      "name": "half_blend",
+      "hard_correct": 308,
+      "hard_accuracy": 86.76056338028168,
+      "validation_accuracy": 94.11027568922306,
+      "fixed": 5,
+      "regressed": 6
+    }
+  ],
+  "seconds": 12.479494599974714,
+  "test_scored": false,
+  "configuration": "Fixed C=0.1; no hyperparameter search; features designed after inspecting training-only mistakes."
+}

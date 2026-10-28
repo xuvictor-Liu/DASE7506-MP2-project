@@ -1,0 +1,32 @@
+[
+  {
+    "fraction": 0.9,
+    "epoch": 20,
+    "holdout_accuracy": 82.26950354609929
+  },
+  {
+    "fraction": 0.9,
+    "epoch": 50,
+    "holdout_accuracy": 82.50591016548464
+  },
+  {
+    "fraction": 0.9,
+    "epoch": 100,
+    "holdout_accuracy": 82.50591016548464
+  },
+  {
+    "fraction": 1.0,
+    "epoch": 20,
+    "holdout_accuracy": 82.97872340425532
+  },
+  {
+    "fraction": 1.0,
+    "epoch": 50,
+    "holdout_accuracy": 83.21513002364065
+  },
+  {
+    "fraction": 1.0,
+    "epoch": 100,
+    "holdout_accuracy": 82.97872340425532
+  }
+]

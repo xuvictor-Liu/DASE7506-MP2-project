@@ -1,0 +1,18 @@
+{
+  "test_scored": false,
+  "frozen_submission": "V2",
+  "best_development": {
+    "name": "trace_blend_0.25",
+    "correct_hard": 308,
+    "hard_n": 355,
+    "hard_accuracy": 86.76056338028168,
+    "validation_accuracy": 94.11027568922306,
+    "fixed": 1,
+    "regressed": 0,
+    "paired_bootstrap_gain_ci95": [
+      0.0,
+      0.8450704225352111
+    ]
+  },
+  "note": "Repeated development evaluation; small gains are not independent evidence. OOF prior calibration holdout is not fully nested."
+}

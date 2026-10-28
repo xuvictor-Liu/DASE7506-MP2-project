@@ -1,0 +1,10 @@
+{
+  "selected": {
+    "C": 0.0001,
+    "holdout_accuracy": 76.35933806146572,
+    "seconds": 7.183143700007349
+  },
+  "hard_accuracy": 79.43661971830987,
+  "validation_accuracy": 90.85213032581454,
+  "seconds": 14.76797159994021
+}

@@ -1,0 +1,8 @@
+{
+  "n_gate_questions": 211,
+  "cnn_preferred": 88,
+  "semantic_oof_hard": 81.64616840113528,
+  "cnn_oof_hard": 79.99053926206244,
+  "either_expert_oof_hard": 85.80889309366131,
+  "note": "Gate fitted on cross-fitted training predictions; no gate hyperparameter search. Final expert ensembles were previously fitted on all training data."
+}

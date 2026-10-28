@@ -1,0 +1,14 @@
+{
+  "configuration_from_training_holdout": {
+    "rho": 0,
+    "epoch": 50,
+    "holdout_accuracy": 83.68794326241135
+  },
+  "final_seeds": [
+    41,
+    42,
+    43
+  ],
+  "extra_hyperparameter_search": false,
+  "test_scored": false
+}

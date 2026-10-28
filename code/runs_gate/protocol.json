@@ -1,0 +1,13 @@
+{
+  "folds": 2,
+  "split_seed": 1861,
+  "semantic_epochs": 50,
+  "semantic_alpha": 0.1,
+  "cnn_epochs": 30,
+  "cnn_dropout": 0.15,
+  "gate_C": 0.1,
+  "anchored_gate_weight": 0.25,
+  "hyperparameter_search": false,
+  "validation_evaluations": "one final comparison",
+  "test_scored": false
+}

@@ -1,0 +1,20 @@
+{
+  "selection": {
+    "stack_weight": 0,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504
+  },
+  "sha256": {
+    "selector_refined.py": "7599249ff346c581f4c7441ffd62f9a9c277143f1ac0c0ee16fcc2651a89af5d",
+    "selector_stack.py": "630a2a3c39c4d1a7ab652d92f8eb9ef9beee8cb3bca2eec77b9e5ba28689a8c4",
+    "selector_v2.py": "a274c6f2414cca10929393dd7c4e624fb7ebb1cf649eb8c7ed037198af7a2602",
+    "features_v2.py": "e145ed4d872147f096e62bd12fc4d765209654368148f2efe5f5f0f357516ebc",
+    "features.py": "b5da4adb7d9dd55149f142ab5020029a892696b848fccc015785d6e41a43ddeb",
+    "arithmetic.py": "4b5530b5a1e29a6f96231910185c6c85f7d4cf2b88b141199c0a8df22bf21c60",
+    "correction_evidence.py": "7f034975da79e28b28b33817a5df1d8f47ed5702e9ef945b3e6fa11d3ee51412",
+    "runs_v2\\final_bundle\\model.pkl": "55eae146139d50ce68e3a5a8e361c55d86a1c0b2f3102f0ef4f3581f615bc0e6"
+  },
+  "asset_bytes": 1803170,
+  "protocol": "dase7506-mp2-open-hard-verifier-v5",
+  "note": "Second research round; selection uses train/validation only. V1 aggregate test score was already known; no test-answer inspection or test-driven selection in round two."
+}

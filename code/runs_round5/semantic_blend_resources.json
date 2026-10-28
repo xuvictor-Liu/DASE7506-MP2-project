@@ -1,0 +1,10 @@
+{
+  "fresh_prediction_plus_scoring_seconds": 6.65023300005123,
+  "split": "validation",
+  "n": 798,
+  "asset_bytes": 9724630,
+  "threads": 4,
+  "method": "selector_semantic_blend.py",
+  "checkpoint": "runs_round5/development_bundle",
+  "note": "Local validation-bank timing; not an official reference-CPU or test-bank certification."
+}

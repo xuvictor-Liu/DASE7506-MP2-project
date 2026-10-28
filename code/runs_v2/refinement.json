@@ -1,0 +1,87 @@
+[
+  {
+    "name": "old_new_0",
+    "hard_accuracy": 85.07042253521126,
+    "validation_accuracy": 93.35839598997494
+  },
+  {
+    "name": "old_new_0.25",
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701
+  },
+  {
+    "name": "old_new_0.5",
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599
+  },
+  {
+    "name": "old_new_0.75",
+    "hard_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097
+  },
+  {
+    "name": "old_new_1",
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599
+  },
+  {
+    "name": "text_weight_0.1",
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701
+  },
+  {
+    "name": "text_weight_0.25",
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701
+  },
+  {
+    "name": "text_weight_0.5",
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701
+  },
+  {
+    "name": "arithmetic_penalty_0.25",
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701
+  },
+  {
+    "name": "answer_aggregation_penalty_0.25",
+    "hard_accuracy": 84.50704225352112,
+    "validation_accuracy": 93.10776942355889
+  },
+  {
+    "name": "arithmetic_penalty_0.5",
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599
+  },
+  {
+    "name": "answer_aggregation_penalty_0.5",
+    "hard_accuracy": 84.50704225352112,
+    "validation_accuracy": 93.10776942355889
+  },
+  {
+    "name": "arithmetic_penalty_1",
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599
+  },
+  {
+    "name": "answer_aggregation_penalty_1",
+    "hard_accuracy": 84.78873239436619,
+    "validation_accuracy": 93.23308270676691
+  },
+  {
+    "name": "arithmetic_penalty_2",
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599
+  },
+  {
+    "name": "answer_aggregation_penalty_2",
+    "hard_accuracy": 84.50704225352112,
+    "validation_accuracy": 93.10776942355889
+  },
+  {
+    "name": "answer_aggregation",
+    "hard_accuracy": 84.50704225352112,
+    "validation_accuracy": 93.10776942355889
+  }
+]

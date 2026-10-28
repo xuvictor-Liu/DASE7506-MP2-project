@@ -1,0 +1,27 @@
+[
+  {
+    "correction": 0,
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701
+  },
+  {
+    "correction": 0.5,
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701
+  },
+  {
+    "correction": 1,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504
+  },
+  {
+    "correction": 2,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504
+  },
+  {
+    "correction": 4,
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701
+  }
+]

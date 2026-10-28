@@ -1,0 +1,56 @@
+[
+  {
+    "C": 0.3,
+    "bandwidth": 0.25,
+    "holdout_accuracy": 79.66903073286052,
+    "seconds": 10.676711299922317
+  },
+  {
+    "C": 0.3,
+    "bandwidth": 1,
+    "holdout_accuracy": 79.66903073286052,
+    "seconds": 16.276240499923006
+  },
+  {
+    "C": 0.3,
+    "bandwidth": 4,
+    "holdout_accuracy": 76.12293144208037,
+    "seconds": 24.61580489994958
+  },
+  {
+    "C": 3,
+    "bandwidth": 0.25,
+    "holdout_accuracy": 81.32387706855792,
+    "seconds": 28.956543499953113
+  },
+  {
+    "C": 3,
+    "bandwidth": 1,
+    "holdout_accuracy": 81.32387706855792,
+    "seconds": 34.342210799921304
+  },
+  {
+    "C": 3,
+    "bandwidth": 4,
+    "holdout_accuracy": 78.01418439716312,
+    "seconds": 43.39566709997598
+  },
+  {
+    "C": 30,
+    "bandwidth": 0.25,
+    "holdout_accuracy": 81.7966903073286,
+    "seconds": 48.2499308999395
+  },
+  {
+    "C": 30,
+    "bandwidth": 1,
+    "holdout_accuracy": 79.90543735224587,
+    "seconds": 55.21162560000084
+  },
+  {
+    "C": 30,
+    "bandwidth": 4,
+    "holdout_accuracy": 78.01418439716312,
+    "seconds": 64.2719836999895
+  }
+]

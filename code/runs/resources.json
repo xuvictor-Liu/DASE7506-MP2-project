@@ -1,0 +1,20 @@
+{
+  "validation": {
+    "prediction_process_seconds": 0.5640591999981552,
+    "scoring_process_seconds": 0.20650169998407364,
+    "total_seconds": 0.7705608999822289
+  },
+  "test": {
+    "prediction_process_seconds": 0.4214732999680564,
+    "scoring_process_seconds": 0.23699270002543926,
+    "total_seconds": 0.6584659999934956
+  },
+  "environment": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.12.10",
+    "cpu": "Intel Core Ultra 7 251HX",
+    "threads": 4,
+    "gpu_used": false
+  },
+  "asset_bytes": 608055
+}

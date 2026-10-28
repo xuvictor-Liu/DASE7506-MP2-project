@@ -1,0 +1,13 @@
+{
+  "selected": {
+    "rank": 16,
+    "epoch": 100,
+    "holdout_accuracy": 83.451536643026
+  },
+  "hard_correct": 305,
+  "hard_accuracy": 85.91549295774648,
+  "validation_accuracy": 93.734335839599,
+  "seconds": 50.88257400004659,
+  "asset_bytes": 3157950,
+  "test_scored": false
+}

@@ -1,0 +1,10 @@
+{
+  "sha256": {
+    "selector.py": "3b48b75c5bc84a15c655da6a6b895b35b24c0146d43b1da6d48f22df18fa078c",
+    "features.py": "b5da4adb7d9dd55149f142ab5020029a892696b848fccc015785d6e41a43ddeb",
+    "arithmetic.py": "4b5530b5a1e29a6f96231910185c6c85f7d4cf2b88b141199c0a8df22bf21c60",
+    "runs/model_bundle/model.pkl": "6da7666b6d2ae8abcd072fe01bbf503b5c34c1d5cb8628c30c769df5044dacb4"
+  },
+  "protocol": "dase7506-mp2-open-hard-verifier-v5",
+  "selection": "validation only; frozen before test scoring"
+}

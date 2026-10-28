@@ -1,0 +1,11 @@
+{
+  "selected": {
+    "alpha": 0.1,
+    "epoch": 50,
+    "holdout_accuracy": 83.451536643026
+  },
+  "hard_accuracy": 85.63380281690141,
+  "validation_accuracy": 93.60902255639097,
+  "seconds": 173.35701579996385,
+  "asset_bytes": 6453923
+}

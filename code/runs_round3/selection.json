@@ -1,0 +1,14 @@
+{
+  "selected": {
+    "name": "base",
+    "weight": 0
+  },
+  "hard_accuracy": 86.47887323943661,
+  "paired_bootstrap_gain_ci95": [
+    0.0,
+    0.0
+  ],
+  "seconds": 6.430736200069077,
+  "test_scored": false,
+  "test_gate": "Only consider a new official test after >=90% on validation disagreement subset; otherwise retain V2 as current frozen submission."
+}

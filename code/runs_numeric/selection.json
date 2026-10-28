@@ -1,0 +1,11 @@
+{
+  "selected": {
+    "depth": 6,
+    "iterations": 800,
+    "holdout_accuracy": 81.7966903073286,
+    "seconds": 70.67822730005719
+  },
+  "hard_accuracy": 80.84507042253522,
+  "validation_accuracy": 91.47869674185463,
+  "seconds": 95.59217400010675
+}

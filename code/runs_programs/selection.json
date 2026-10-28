@@ -1,0 +1,30 @@
+{
+  "extracted": 3521,
+  "fit_questions": 613,
+  "classes": 96,
+  "holdout": [
+    {
+      "threshold": 0.1,
+      "n": 16,
+      "accuracy": 56.25
+    },
+    {
+      "threshold": 0.25,
+      "n": 0,
+      "accuracy": null
+    },
+    {
+      "threshold": 0.5,
+      "n": 0,
+      "accuracy": null
+    },
+    {
+      "threshold": 0.75,
+      "n": 0,
+      "accuracy": null
+    }
+  ],
+  "validation_hard_coverage": 192,
+  "validation_hard_covered_accuracy": 38.54166666666667,
+  "seconds": 4.072217000066303
+}

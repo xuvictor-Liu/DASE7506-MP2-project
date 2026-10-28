@@ -1,0 +1,13 @@
+{
+  "selected": {
+    "dropout": 0.15,
+    "epoch": 30,
+    "holdout_accuracy": 82.03309692671394,
+    "seconds": 101.11290810001083
+  },
+  "hard_accuracy": 85.63380281690141,
+  "validation_accuracy": 93.60902255639097,
+  "seconds": 380.11888560000807,
+  "device": "cpu",
+  "asset_bytes": 4106104
+}

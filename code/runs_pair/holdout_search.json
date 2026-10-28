@@ -1,0 +1,38 @@
+[
+  {
+    "reg": 0.003,
+    "epoch": 20,
+    "holdout_accuracy": 82.03309692671394,
+    "seconds": 27.714179700007662
+  },
+  {
+    "reg": 0.003,
+    "epoch": 50,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 27.937578599900007
+  },
+  {
+    "reg": 0.003,
+    "epoch": 100,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 28.161918799974956
+  },
+  {
+    "reg": 0.03,
+    "epoch": 20,
+    "holdout_accuracy": 81.7966903073286,
+    "seconds": 52.04134359990712
+  },
+  {
+    "reg": 0.03,
+    "epoch": 50,
+    "holdout_accuracy": 81.7966903073286,
+    "seconds": 52.26618659996893
+  },
+  {
+    "reg": 0.03,
+    "epoch": 100,
+    "holdout_accuracy": 81.56028368794325,
+    "seconds": 52.6431803999003
+  }
+]

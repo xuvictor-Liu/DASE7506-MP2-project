@@ -1,0 +1,13 @@
+{
+  "selected": {
+    "rho": 0,
+    "epoch": 50,
+    "holdout_accuracy": 83.68794326241135
+  },
+  "hard_correct": 306,
+  "hard_accuracy": 86.19718309859155,
+  "validation_accuracy": 93.85964912280701,
+  "seconds": 42.79740680009127,
+  "asset_bytes": 2750951,
+  "test_scored": false
+}

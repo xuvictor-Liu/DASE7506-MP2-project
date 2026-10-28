@@ -1,0 +1,17 @@
+{
+  "test_scored": false,
+  "best_development": {
+    "name": "role_text_semantic_0.25",
+    "correct_hard": 309,
+    "hard_accuracy": 87.04225352112675,
+    "validation_accuracy": 94.23558897243107,
+    "fixed": 3,
+    "regressed": 1,
+    "paired_bootstrap_gain_ci95": [
+      -0.5633802816901409,
+      1.6901408450704223
+    ]
+  },
+  "frozen_submission": "V2",
+  "note": "Repeated validation development, not an unbiased estimate. No official test rerun."
+}

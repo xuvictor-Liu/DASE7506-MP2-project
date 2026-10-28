@@ -1,0 +1,7 @@
+{
+  "name": "pair_h64_ensemble_ep60",
+  "hard_accuracy": 85.91549295774648,
+  "validation_accuracy": 93.734335839599,
+  "seconds": 47.06044630007818,
+  "asset_bytes": 1195112
+}

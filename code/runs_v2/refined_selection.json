@@ -1,0 +1,11 @@
+{
+  "config": {
+    "new_weight": 0.25,
+    "text_weight": 0,
+    "penalty": 0,
+    "aggregate": false
+  },
+  "hard_accuracy": 86.19718309859155,
+  "validation_accuracy": 93.85964912280701,
+  "asset_bytes": 1803129
+}

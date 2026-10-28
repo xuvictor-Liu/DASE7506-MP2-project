@@ -1,0 +1,11 @@
+{
+  "selected": {
+    "reg": 0.003,
+    "epoch": 50,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 27.937578599900007
+  },
+  "hard_accuracy": 85.07042253521126,
+  "validation_accuracy": 93.35839598997494,
+  "seconds": 97.84821759990882
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "C": 0.1,
+    "hard_accuracy": 63.38028169014085,
+    "validation_accuracy": 83.70927318295739,
+    "seconds": 13.822635099990293
+  },
+  {
+    "C": 1,
+    "hard_accuracy": 66.7605633802817,
+    "validation_accuracy": 85.21303258145363,
+    "seconds": 15.284089399967343
+  },
+  {
+    "C": 10,
+    "hard_accuracy": 66.7605633802817,
+    "validation_accuracy": 85.21303258145363,
+    "seconds": 18.466358199948445
+  }
+]

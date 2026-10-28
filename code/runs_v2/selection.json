@@ -1,0 +1,7 @@
+{
+  "name": "soft_h192_ensemble_ep60",
+  "hard_accuracy": 85.63380281690141,
+  "validation_accuracy": 93.60902255639097,
+  "seconds": 414.3573768000351,
+  "asset_bytes": 5482343
+}

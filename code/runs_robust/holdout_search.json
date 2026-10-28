@@ -1,0 +1,47 @@
+[
+  {
+    "rho": 0,
+    "epoch": 20,
+    "holdout_accuracy": 81.32387706855792
+  },
+  {
+    "rho": 0,
+    "epoch": 50,
+    "holdout_accuracy": 83.68794326241135
+  },
+  {
+    "rho": 0,
+    "epoch": 100,
+    "holdout_accuracy": 82.26950354609929
+  },
+  {
+    "rho": 0.05,
+    "epoch": 20,
+    "holdout_accuracy": 81.7966903073286
+  },
+  {
+    "rho": 0.05,
+    "epoch": 50,
+    "holdout_accuracy": 83.21513002364065
+  },
+  {
+    "rho": 0.05,
+    "epoch": 100,
+    "holdout_accuracy": 82.50591016548464
+  },
+  {
+    "rho": 0.15,
+    "epoch": 20,
+    "holdout_accuracy": 82.26950354609929
+  },
+  {
+    "rho": 0.15,
+    "epoch": 50,
+    "holdout_accuracy": 83.68794326241135
+  },
+  {
+    "rho": 0.15,
+    "epoch": 100,
+    "holdout_accuracy": 82.97872340425532
+  }
+]

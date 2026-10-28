@@ -1,0 +1,17 @@
+{
+  "batch_independence": true,
+  "permutation_answer_consistency": true,
+  "asset_bytes": 1803170,
+  "cpu": "Intel Core Ultra 7 251HX",
+  "threads": 4,
+  "validation": {
+    "prediction_seconds": 1.2564450999489054,
+    "scoring_seconds": 0.19856479996815324,
+    "total_seconds": 1.4550098999170586
+  },
+  "test": {
+    "prediction_seconds": 0.8606351000489667,
+    "scoring_seconds": 0.19330769998487085,
+    "total_seconds": 1.0539428000338376
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "depth": 2,
+    "iterations": 200,
+    "holdout_accuracy": 81.56028368794325
+  },
+  {
+    "depth": 2,
+    "iterations": 800,
+    "holdout_accuracy": 81.08747044917257
+  },
+  {
+    "depth": 4,
+    "iterations": 200,
+    "holdout_accuracy": 81.7966903073286
+  },
+  {
+    "depth": 4,
+    "iterations": 800,
+    "holdout_accuracy": 79.43262411347519
+  }
+]

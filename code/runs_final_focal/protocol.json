@@ -1,0 +1,20 @@
+{
+  "gamma": [
+    0,
+    1,
+    2
+  ],
+  "epochs": [
+    20,
+    50,
+    100
+  ],
+  "holdout_seed": 731,
+  "seeds": [
+    41,
+    42,
+    43
+  ],
+  "stop_after_this_family": true,
+  "test_scored": false
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "name": "soft_h64_seed41_ep20",
+    "validation_accuracy": 92.35588972431079,
+    "hard_accuracy": 82.8169014084507,
+    "seconds": 7.360312500037253
+  },
+  {
+    "name": "soft_h64_seed41_ep40",
+    "validation_accuracy": 91.8546365914787,
+    "hard_accuracy": 81.69014084507043,
+    "seconds": 7.785867200000212
+  },
+  {
+    "name": "soft_h64_seed41_ep60",
+    "validation_accuracy": 91.97994987468672,
+    "hard_accuracy": 81.97183098591549,
+    "seconds": 8.214376100106165
+  },
+  {
+    "name": "soft_h64_seed41_ep100",
+    "validation_accuracy": 91.97994987468672,
+    "hard_accuracy": 81.97183098591549,
+    "seconds": 9.121572100091726
+  },
+  {
+    "name": "soft_h64_seed42_ep20",
+    "validation_accuracy": 91.97994987468672,
+    "hard_accuracy": 81.97183098591549,
+    "seconds": 9.546975300065242
+  },
+  {
+    "name": "soft_h64_seed42_ep40",
+    "validation_accuracy": 92.85714285714286,
+    "hard_accuracy": 83.94366197183099,
+    "seconds": 9.976380200008862
+  },
+  {
+    "name": "soft_h64_seed42_ep60",
+    "validation_accuracy": 93.23308270676691,
+    "hard_accuracy": 84.78873239436619,
+    "seconds": 10.400839400012046
+  },
+  {
+    "name": "soft_h64_seed42_ep100",
+    "validation_accuracy": 92.60651629072682,
+    "hard_accuracy": 83.38028169014085,
+    "seconds": 11.278254800010473
+  },
+  {
+    "name": "soft_h64_seed43_ep20",
+    "validation_accuracy": 91.72932330827066,
+    "hard_accuracy": 81.40845070422536,
+    "seconds": 11.702557600103319
+  },
+  {
+    "name": "soft_h64_seed43_ep40",
+    "validation_accuracy": 91.47869674185463,
+    "hard_accuracy": 80.84507042253522,
+    "seconds": 12.127716700080782
+  },
+  {
+    "name": "soft_h64_seed43_ep60",
+    "validation_accuracy": 91.8546365914787,
+    "hard_accuracy": 81.69014084507043,
+    "seconds": 12.560228300048038
+  },
+  {
+    "name": "soft_h64_seed43_ep100",
+    "validation_accuracy": 92.85714285714286,
+    "hard_accuracy": 83.94366197183099,
+    "seconds": 13.464230500045232
+  },
+  {
+    "name": "soft_h64_ensemble_ep20",
+    "validation_accuracy": 92.10526315789474,
+    "hard_accuracy": 82.25352112676056,
+    "seconds": 13.505368900019675
+  },
+  {
+    "name": "soft_h64_ensemble_ep40",
+    "validation_accuracy": 92.35588972431079,
+    "hard_accuracy": 82.8169014084507,
+    "seconds": 13.550084699993022
+  },
+  {
+    "name": "soft_h64_ensemble_ep60",
+    "validation_accuracy": 92.35588972431079,
+    "hard_accuracy": 82.8169014084507,
+    "seconds": 13.590462299995124
+  },
+  {
+    "name": "soft_h64_ensemble_ep100",
+    "validation_accuracy": 92.85714285714286,
+    "hard_accuracy": 83.94366197183099,
+    "seconds": 13.631748000043444
+  },
+  {
+    "name": "soft_h192_seed41_ep20",
+    "validation_accuracy": 92.10526315789474,
+    "hard_accuracy": 82.25352112676056,
+    "seconds": 14.430287400027737
+  },
+  {
+    "name": "soft_h192_seed41_ep40",
+    "validation_accuracy": 92.35588972431079,
+    "hard_accuracy": 82.8169014084507,
+    "seconds": 15.222191700013354
+  },
+  {
+    "name": "soft_h192_seed41_ep60",
+    "validation_accuracy": 93.10776942355889,
+    "hard_accuracy": 84.50704225352112,
+    "seconds": 16.01280140003655
+  },
+  {
+    "name": "soft_h192_seed41_ep100",
+    "validation_accuracy": 93.35839598997494,
+    "hard_accuracy": 85.07042253521126,
+    "seconds": 17.720212000072934
+  },
+  {
+    "name": "soft_h192_seed42_ep20",
+    "validation_accuracy": 92.23057644110276,
+    "hard_accuracy": 82.53521126760563,
+    "seconds": 18.52359570004046
+  },
+  {
+    "name": "soft_h192_seed42_ep40",
+    "validation_accuracy": 92.23057644110276,
+    "hard_accuracy": 82.53521126760563,
+    "seconds": 19.319465700071305
+  },
+  {
+    "name": "soft_h192_seed42_ep60",
+    "validation_accuracy": 92.98245614035088,
+    "hard_accuracy": 84.22535211267605,
+    "seconds": 20.11996410007123
+  },
+  {
+    "name": "soft_h192_seed42_ep100",
+    "validation_accuracy": 93.48370927318295,
+    "hard_accuracy": 85.35211267605634,
+    "seconds": 21.847082299995236
+  },
+  {
+    "name": "soft_h192_seed43_ep20",
+    "validation_accuracy": 91.97994987468672,
+    "hard_accuracy": 81.97183098591549,
+    "seconds": 22.626962000038475
+  },
+  {
+    "name": "soft_h192_seed43_ep40",
+    "validation_accuracy": 92.10526315789474,
+    "hard_accuracy": 82.25352112676056,
+    "seconds": 23.42182839999441
+  },
+  {
+    "name": "soft_h192_seed43_ep60",
+    "validation_accuracy": 91.60401002506265,
+    "hard_accuracy": 81.12676056338029,
+    "seconds": 24.235714300069958
+  },
+  {
+    "name": "soft_h192_seed43_ep100",
+    "validation_accuracy": 92.35588972431079,
+    "hard_accuracy": 82.8169014084507,
+    "seconds": 25.9543995000422
+  },
+  {
+    "name": "soft_h192_ensemble_ep20",
+    "validation_accuracy": 91.97994987468672,
+    "hard_accuracy": 81.97183098591549,
+    "seconds": 26.05779380002059
+  },
+  {
+    "name": "soft_h192_ensemble_ep40",
+    "validation_accuracy": 91.97994987468672,
+    "hard_accuracy": 81.97183098591549,
+    "seconds": 26.163145700003952
+  },
+  {
+    "name": "soft_h192_ensemble_ep60",
+    "validation_accuracy": 92.60651629072682,
+    "hard_accuracy": 83.38028169014085,
+    "seconds": 26.265597800025716
+  },
+  {
+    "name": "soft_h192_ensemble_ep100",
+    "validation_accuracy": 92.85714285714286,
+    "hard_accuracy": 83.94366197183099,
+    "seconds": 26.36828819999937
+  },
+  {
+    "name": "pair_h64_seed41_ep20",
+    "validation_accuracy": 92.60651629072682,
+    "hard_accuracy": 83.38028169014085,
+    "seconds": 26.816598700010218
+  },
+  {
+    "name": "pair_h64_seed41_ep40",
+    "validation_accuracy": 92.4812030075188,
+    "hard_accuracy": 83.09859154929578,
+    "seconds": 27.264729300048202
+  },
+  {
+    "name": "pair_h64_seed41_ep60",
+    "validation_accuracy": 92.60651629072682,
+    "hard_accuracy": 83.38028169014085,
+    "seconds": 27.714501200011
+  },
+  {
+    "name": "pair_h64_seed41_ep100",
+    "validation_accuracy": 93.10776942355889,
+    "hard_accuracy": 84.50704225352112,
+    "seconds": 28.647890500025824
+  },
+  {
+    "name": "pair_h64_seed42_ep20",
+    "validation_accuracy": 93.10776942355889,
+    "hard_accuracy": 84.50704225352112,
+    "seconds": 29.09490900009405
+  },
+  {
+    "name": "pair_h64_seed42_ep40",
+    "validation_accuracy": 93.23308270676691,
+    "hard_accuracy": 84.78873239436619,
+    "seconds": 29.554856100003235
+  },
+  {
+    "name": "pair_h64_seed42_ep60",
+    "validation_accuracy": 92.98245614035088,
+    "hard_accuracy": 84.22535211267605,
+    "seconds": 30.006105600041337
+  },
+  {
+    "name": "pair_h64_seed42_ep100",
+    "validation_accuracy": 92.73182957393483,
+    "hard_accuracy": 83.66197183098592,
+    "seconds": 30.938191600027494
+  },
+  {
+    "name": "pair_h64_seed43_ep20",
+    "validation_accuracy": 92.60651629072682,
+    "hard_accuracy": 83.38028169014085,
+    "seconds": 31.380617000046186
+  },
+  {
+    "name": "pair_h64_seed43_ep40",
+    "validation_accuracy": 92.98245614035088,
+    "hard_accuracy": 84.22535211267605,
+    "seconds": 31.82793250004761
+  },
+  {
+    "name": "pair_h64_seed43_ep60",
+    "validation_accuracy": 92.4812030075188,
+    "hard_accuracy": 83.09859154929578,
+    "seconds": 32.277249600039795
+  },
+  {
+    "name": "pair_h64_seed43_ep100",
+    "validation_accuracy": 92.23057644110276,
+    "hard_accuracy": 82.53521126760563,
+    "seconds": 33.21045150002465
+  },
+  {
+    "name": "pair_h64_ensemble_ep20",
+    "validation_accuracy": 92.73182957393483,
+    "hard_accuracy": 83.66197183098592,
+    "seconds": 33.25111190008465
+  },
+  {
+    "name": "pair_h64_ensemble_ep40",
+    "validation_accuracy": 92.98245614035088,
+    "hard_accuracy": 84.22535211267605,
+    "seconds": 33.29103110008873
+  },
+  {
+    "name": "pair_h64_ensemble_ep60",
+    "validation_accuracy": 93.734335839599,
+    "hard_accuracy": 85.91549295774648,
+    "seconds": 33.331324200029485
+  },
+  {
+    "name": "pair_h64_ensemble_ep100",
+    "validation_accuracy": 93.10776942355889,
+    "hard_accuracy": 84.50704225352112,
+    "seconds": 33.37251300003845
+  },
+  {
+    "name": "pair_h192_seed41_ep20",
+    "validation_accuracy": 92.98245614035088,
+    "hard_accuracy": 84.22535211267605,
+    "seconds": 34.262392200063914
+  },
+  {
+    "name": "pair_h192_seed41_ep40",
+    "validation_accuracy": 93.48370927318295,
+    "hard_accuracy": 85.35211267605634,
+    "seconds": 35.11631180008408
+  },
+  {
+    "name": "pair_h192_seed41_ep60",
+    "validation_accuracy": 92.85714285714286,
+    "hard_accuracy": 83.94366197183099,
+    "seconds": 35.987885800073855
+  },
+  {
+    "name": "pair_h192_seed41_ep100",
+    "validation_accuracy": 93.10776942355889,
+    "hard_accuracy": 84.50704225352112,
+    "seconds": 37.77035230002366
+  },
+  {
+    "name": "pair_h192_seed42_ep20",
+    "validation_accuracy": 92.35588972431079,
+    "hard_accuracy": 82.8169014084507,
+    "seconds": 38.583335300092585
+  },
+  {
+    "name": "pair_h192_seed42_ep40",
+    "validation_accuracy": 92.98245614035088,
+    "hard_accuracy": 84.22535211267605,
+    "seconds": 39.38869010005146
+  },
+  {
+    "name": "pair_h192_seed42_ep60",
+    "validation_accuracy": 92.98245614035088,
+    "hard_accuracy": 84.22535211267605,
+    "seconds": 40.20096300006844
+  },
+  {
+    "name": "pair_h192_seed42_ep100",
+    "validation_accuracy": 92.85714285714286,
+    "hard_accuracy": 83.94366197183099,
+    "seconds": 41.95740240009036
+  },
+  {
+    "name": "pair_h192_seed43_ep20",
+    "validation_accuracy": 91.97994987468672,
+    "hard_accuracy": 81.97183098591549,
+    "seconds": 42.7565678000683
+  },
+  {
+    "name": "pair_h192_seed43_ep40",
+    "validation_accuracy": 91.72932330827066,
+    "hard_accuracy": 81.40845070422536,
+    "seconds": 43.572075100033544
+  },
+  {
+    "name": "pair_h192_seed43_ep60",
+    "validation_accuracy": 92.10526315789474,
+    "hard_accuracy": 82.25352112676056,
+    "seconds": 44.37783900008071
+  },
+  {
+    "name": "pair_h192_seed43_ep100",
+    "validation_accuracy": 92.4812030075188,
+    "hard_accuracy": 83.09859154929578,
+    "seconds": 46.180842800065875
+  },
+  {
+    "name": "pair_h192_ensemble_ep20",
+    "validation_accuracy": 92.60651629072682,
+    "hard_accuracy": 83.38028169014085,
+    "seconds": 46.28419959999155
+  },
+  {
+    "name": "pair_h192_ensemble_ep40",
+    "validation_accuracy": 92.35588972431079,
+    "hard_accuracy": 82.8169014084507,
+    "seconds": 46.38840290007647
+  },
+  {
+    "name": "pair_h192_ensemble_ep60",
+    "validation_accuracy": 92.73182957393483,
+    "hard_accuracy": 83.66197183098592,
+    "seconds": 46.49087970005348
+  },
+  {
+    "name": "pair_h192_ensemble_ep100",
+    "validation_accuracy": 92.85714285714286,
+    "hard_accuracy": 83.94366197183099,
+    "seconds": 46.5943257000763
+  }
+]

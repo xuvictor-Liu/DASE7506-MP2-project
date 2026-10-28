@@ -1,0 +1,36 @@
+{
+  "comparison": [
+    {
+      "name": "previous",
+      "hard_correct": 309,
+      "hard_accuracy": 87.04225352112675,
+      "validation_accuracy": 94.23558897243107,
+      "fixed": 0,
+      "regressed": 0,
+      "asset_bytes": 9724630
+    },
+    {
+      "name": "aligned",
+      "hard_correct": 306,
+      "hard_accuracy": 86.19718309859155,
+      "validation_accuracy": 93.85964912280701,
+      "fixed": 3,
+      "regressed": 6,
+      "asset_bytes": 7633529
+    },
+    {
+      "name": "aligned_semantic_25",
+      "hard_correct": 306,
+      "hard_accuracy": 86.19718309859155,
+      "validation_accuracy": 93.85964912280701,
+      "fixed": 2,
+      "regressed": 5,
+      "asset_bytes": 14086989
+    }
+  ],
+  "seconds": 20.95114499994088,
+  "C": 1,
+  "hyperparameter_search": false,
+  "test_scored": false,
+  "note": "Fixed prior/text vocabulary inherited from training; single-fold OOF vs averaged deployment teacher variance still differs."
+}

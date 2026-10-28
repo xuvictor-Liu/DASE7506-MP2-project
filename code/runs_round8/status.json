@@ -1,0 +1,13 @@
+{
+  "best": {
+    "name": "previous_development",
+    "hard_correct": 309,
+    "hard_accuracy": 87.04225352112675,
+    "validation_accuracy": 94.23558897243107,
+    "fixed": 0,
+    "regressed": 0
+  },
+  "test_scored": false,
+  "target_test_correct": 407,
+  "target_test_n": 467
+}

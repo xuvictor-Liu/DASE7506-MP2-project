@@ -1,0 +1,86 @@
+[
+  {
+    "width": 48,
+    "reg": 0.003,
+    "epoch": 20,
+    "holdout_accuracy": 81.7966903073286,
+    "seconds": 24.636404999997467
+  },
+  {
+    "width": 48,
+    "reg": 0.003,
+    "epoch": 50,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 24.687666699988768
+  },
+  {
+    "width": 48,
+    "reg": 0.003,
+    "epoch": 100,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 24.739493099972606
+  },
+  {
+    "width": 48,
+    "reg": 0.03,
+    "epoch": 20,
+    "holdout_accuracy": 82.03309692671394,
+    "seconds": 44.147490500006825
+  },
+  {
+    "width": 48,
+    "reg": 0.03,
+    "epoch": 50,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 44.198589199921116
+  },
+  {
+    "width": 48,
+    "reg": 0.03,
+    "epoch": 100,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 44.25173919997178
+  },
+  {
+    "width": 128,
+    "reg": 0.003,
+    "epoch": 20,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 81.90990959992632
+  },
+  {
+    "width": 128,
+    "reg": 0.003,
+    "epoch": 50,
+    "holdout_accuracy": 82.03309692671394,
+    "seconds": 81.98338550003245
+  },
+  {
+    "width": 128,
+    "reg": 0.003,
+    "epoch": 100,
+    "holdout_accuracy": 81.08747044917257,
+    "seconds": 82.05655839992687
+  },
+  {
+    "width": 128,
+    "reg": 0.03,
+    "epoch": 20,
+    "holdout_accuracy": 81.32387706855792,
+    "seconds": 120.92256380000617
+  },
+  {
+    "width": 128,
+    "reg": 0.03,
+    "epoch": 50,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 121.00674739992246
+  },
+  {
+    "width": 128,
+    "reg": 0.03,
+    "epoch": 100,
+    "holdout_accuracy": 82.26950354609929,
+    "seconds": 121.10519569995813
+  }
+]

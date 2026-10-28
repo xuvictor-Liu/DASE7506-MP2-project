@@ -1,0 +1,266 @@
+[
+  {
+    "name": "v2",
+    "correct_hard": 307,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504,
+    "fixed": 0,
+    "regressed": 0,
+    "paired_bootstrap_gain_ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "role_text",
+    "correct_hard": 308,
+    "hard_accuracy": 86.76056338028168,
+    "validation_accuracy": 94.11027568922306,
+    "fixed": 1,
+    "regressed": 0,
+    "paired_bootstrap_gain_ci95": [
+      0.0,
+      0.8450704225352111
+    ]
+  },
+  {
+    "name": "semantic",
+    "correct_hard": 304,
+    "hard_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097,
+    "fixed": 6,
+    "regressed": 9,
+    "paired_bootstrap_gain_ci95": [
+      -3.0985915492957745,
+      1.1267605633802817
+    ]
+  },
+  {
+    "name": "v2_semantic_0.25",
+    "correct_hard": 307,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504,
+    "fixed": 1,
+    "regressed": 1,
+    "paired_bootstrap_gain_ci95": [
+      -0.8450704225352111,
+      0.8450704225352111
+    ]
+  },
+  {
+    "name": "v2_semantic_0.5",
+    "correct_hard": 306,
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701,
+    "fixed": 3,
+    "regressed": 4,
+    "paired_bootstrap_gain_ci95": [
+      -1.6901408450704223,
+      1.1267605633802817
+    ]
+  },
+  {
+    "name": "role_text_semantic_0.25",
+    "correct_hard": 309,
+    "hard_accuracy": 87.04225352112675,
+    "validation_accuracy": 94.23558897243107,
+    "fixed": 3,
+    "regressed": 1,
+    "paired_bootstrap_gain_ci95": [
+      -0.5633802816901409,
+      1.6901408450704223
+    ]
+  },
+  {
+    "name": "role_text_semantic_0.5",
+    "correct_hard": 307,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504,
+    "fixed": 4,
+    "regressed": 4,
+    "paired_bootstrap_gain_ci95": [
+      -1.6901408450704223,
+      1.4084507042253522
+    ]
+  },
+  {
+    "name": "attention",
+    "correct_hard": 299,
+    "hard_accuracy": 84.22535211267605,
+    "validation_accuracy": 92.98245614035088,
+    "fixed": 4,
+    "regressed": 12,
+    "paired_bootstrap_gain_ci95": [
+      -4.507042253521127,
+      -0.28169014084507044
+    ]
+  },
+  {
+    "name": "v2_attention_0.25",
+    "correct_hard": 304,
+    "hard_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097,
+    "fixed": 1,
+    "regressed": 4,
+    "paired_bootstrap_gain_ci95": [
+      -2.2535211267605635,
+      0.28169014084507044
+    ]
+  },
+  {
+    "name": "v2_attention_0.5",
+    "correct_hard": 304,
+    "hard_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097,
+    "fixed": 2,
+    "regressed": 5,
+    "paired_bootstrap_gain_ci95": [
+      -2.2535211267605635,
+      0.5633802816901409
+    ]
+  },
+  {
+    "name": "role_text_attention_0.25",
+    "correct_hard": 305,
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599,
+    "fixed": 1,
+    "regressed": 3,
+    "paired_bootstrap_gain_ci95": [
+      -1.6901408450704223,
+      0.5633802816901409
+    ]
+  },
+  {
+    "name": "role_text_attention_0.5",
+    "correct_hard": 305,
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599,
+    "fixed": 4,
+    "regressed": 6,
+    "paired_bootstrap_gain_ci95": [
+      -2.2535211267605635,
+      1.1267605633802817
+    ]
+  },
+  {
+    "name": "set",
+    "correct_hard": 298,
+    "hard_accuracy": 83.94366197183099,
+    "validation_accuracy": 92.85714285714286,
+    "fixed": 8,
+    "regressed": 17,
+    "paired_bootstrap_gain_ci95": [
+      -5.352112676056338,
+      0.28169014084507044
+    ]
+  },
+  {
+    "name": "v2_set_0.25",
+    "correct_hard": 305,
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599,
+    "fixed": 1,
+    "regressed": 3,
+    "paired_bootstrap_gain_ci95": [
+      -1.6901408450704223,
+      0.5633802816901409
+    ]
+  },
+  {
+    "name": "v2_set_0.5",
+    "correct_hard": 301,
+    "hard_accuracy": 84.78873239436619,
+    "validation_accuracy": 93.23308270676691,
+    "fixed": 2,
+    "regressed": 8,
+    "paired_bootstrap_gain_ci95": [
+      -3.3802816901408446,
+      0.0
+    ]
+  },
+  {
+    "name": "role_text_set_0.25",
+    "correct_hard": 305,
+    "hard_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599,
+    "fixed": 2,
+    "regressed": 4,
+    "paired_bootstrap_gain_ci95": [
+      -1.971830985915493,
+      0.8450704225352111
+    ]
+  },
+  {
+    "name": "role_text_set_0.5",
+    "correct_hard": 303,
+    "hard_accuracy": 85.35211267605634,
+    "validation_accuracy": 93.48370927318295,
+    "fixed": 4,
+    "regressed": 8,
+    "paired_bootstrap_gain_ci95": [
+      -3.0985915492957745,
+      0.8450704225352111
+    ]
+  },
+  {
+    "name": "cnn",
+    "correct_hard": 304,
+    "hard_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097,
+    "fixed": 11,
+    "regressed": 14,
+    "paired_bootstrap_gain_ci95": [
+      -3.3802816901408446,
+      1.971830985915493
+    ]
+  },
+  {
+    "name": "v2_cnn_0.25",
+    "correct_hard": 306,
+    "hard_accuracy": 86.19718309859155,
+    "validation_accuracy": 93.85964912280701,
+    "fixed": 2,
+    "regressed": 3,
+    "paired_bootstrap_gain_ci95": [
+      -1.6901408450704223,
+      0.8450704225352111
+    ]
+  },
+  {
+    "name": "v2_cnn_0.5",
+    "correct_hard": 303,
+    "hard_accuracy": 85.35211267605634,
+    "validation_accuracy": 93.48370927318295,
+    "fixed": 3,
+    "regressed": 7,
+    "paired_bootstrap_gain_ci95": [
+      -3.0985915492957745,
+      0.5633802816901409
+    ]
+  },
+  {
+    "name": "role_text_cnn_0.25",
+    "correct_hard": 307,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504,
+    "fixed": 3,
+    "regressed": 3,
+    "paired_bootstrap_gain_ci95": [
+      -1.4084507042253522,
+      1.4084507042253522
+    ]
+  },
+  {
+    "name": "role_text_cnn_0.5",
+    "correct_hard": 307,
+    "hard_accuracy": 86.47887323943661,
+    "validation_accuracy": 93.98496240601504,
+    "fixed": 6,
+    "regressed": 6,
+    "paired_bootstrap_gain_ci95": [
+      -1.971830985915493,
+      1.971830985915493
+    ]
+  }
+]

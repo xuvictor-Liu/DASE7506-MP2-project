@@ -1,0 +1,30 @@
+{
+  "fractions": [
+    0.9,
+    1.0
+  ],
+  "epochs": [
+    20,
+    50,
+    100
+  ],
+  "selection_seeds": [
+    41,
+    42,
+    43,
+    44
+  ],
+  "final_seeds": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58
+  ],
+  "holdout_seed": 731,
+  "width": 64,
+  "test_scored": false
+}

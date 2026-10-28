@@ -1,0 +1,38 @@
+[
+  {
+    "dropout": 0.15,
+    "epoch": 5,
+    "holdout_accuracy": 78.4869976359338,
+    "seconds": 68.59765689994674
+  },
+  {
+    "dropout": 0.15,
+    "epoch": 15,
+    "holdout_accuracy": 78.4869976359338,
+    "seconds": 68.64103269996122
+  },
+  {
+    "dropout": 0.15,
+    "epoch": 30,
+    "holdout_accuracy": 78.25059101654847,
+    "seconds": 68.68328189989552
+  },
+  {
+    "dropout": 0.4,
+    "epoch": 5,
+    "holdout_accuracy": 80.85106382978722,
+    "seconds": 124.2254170998931
+  },
+  {
+    "dropout": 0.4,
+    "epoch": 15,
+    "holdout_accuracy": 81.08747044917257,
+    "seconds": 124.25378589995671
+  },
+  {
+    "dropout": 0.4,
+    "epoch": 30,
+    "holdout_accuracy": 78.25059101654847,
+    "seconds": 124.2813135999022
+  }
+]
